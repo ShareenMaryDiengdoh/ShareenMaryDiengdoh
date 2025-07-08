@@ -39,24 +39,14 @@ From optimizing chemical processes to analyzing personal finances, I create tool
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShareenDiengdoh&show_icons=true&theme=react)
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Build 5+ **real-world analytics dashboards**
-- ✅ Solve 100+ **SQL & Python** problems
-- ✅ Land a **data analytics or chemical AI role** after graduation
-- ✅ Publish a technical blog on **data + engineering**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShareenMaryDiengdoh&show_icons=true&theme=react)
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/shareen-diengdoh)  
-- 📨 Email: shareen.diengdoh@example.com *(Replace this with your real email)*  
-- 🛠️ Portfolio (optional): *Coming soon*
+- 💼 [LinkedIn](https://www.linkedin.com/in/shareen-mary-diengdoh-8230782a5/)  
+- 📨 Email: shareendiengdoh12@gmail.com *(Replace this with your real email)*  
 
 ---
 
