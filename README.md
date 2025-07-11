@@ -24,14 +24,21 @@ From optimizing chemical processes to analyzing personal finances, I create tool
 
 ---
 
-## 💼 Highlight Projects
+# 📁 Projects by Shareen Diengdoh
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [📊 CleanMyFinance](https://github.com/ShareenDiengdoh/CleanMyFinance) | Python app to clean & analyze personal bank statements, with charts & spending insights | Python, Pandas, Seaborn |
-| [🧪 Smart Distillation Unit](https://github.com/ShareenDiengdoh/SmartDistillation) | Chemical engineering simulator to monitor tray efficiency & detect flooding | Python, ChemEng, Data Viz |
-| [📈 WealthBuilder (Excel)](https://github.com/ShareenDiengdoh/WealthBuilder) | Excel-based tool to visualize compound interest & savings growth | Excel, Charts, Formulas |
-| [📌 Power BI Dashboards](#) *(Coming Soon)* | Visual business dashboards for sales, finance, and production use cases | Power BI, DAX |
+Welcome to my project showcase — blending data analytics with real-world problem solving using Python and modern tools.
+
+---
+
+### 📊 [RevMax: Sales & Revenue Dashboard](https://github.com/ShareenMaryDiengdoh/revmax)
+An interactive Streamlit dashboard to analyze mock sales data with KPIs like revenue, profit, and top-performing products.
+
+### 💸 [WealthBuilder: Personal Finance Tracker](https://github.com/ShareenMaryDiengdoh/wealthbuilder)
+A dynamic Excel-based finance tracker to monitor income, expenses, savings, and generate monthly spending insights.
+
+### 💊 [Pharma Market Analyzer](https://github.com/ShareenMaryDiengdoh/pharma-market-analyzer)
+A Python-powered tool to visualize and compare drug sales, market share, and price trends in the pharmaceutical industry.
+
 
 > 📍 *More projects with SQL & Streamlit dashboards coming soon!*
 
