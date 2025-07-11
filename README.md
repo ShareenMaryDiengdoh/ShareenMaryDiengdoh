@@ -20,7 +20,7 @@ From optimizing chemical processes to analyzing personal finances, I create tool
 
 **Languages & Tools:**  
 `Python` | `SQL` | `Power BI` | `Excel` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`  
-`DWSIM` | `MATLAB` | `Jupyter` | `Streamlit (Learning)` | `Git` | `VS Code`
+`DWSIM` | `MATLAB` | `Jupyter` | `Streamlit` | `Git` | `VS Code`
 
 ---
 
@@ -53,7 +53,7 @@ A Python-powered tool to visualize and compare drug sales, market share, and pri
 ## 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shareen-mary-diengdoh-8230782a5/)  
-- 📨 Email: shareendiengdoh12@gmail.com *(Replace this with your real email)*  
+- 📨 Email: shareendiengdoh12@gmail.com   
 
 ---
 
