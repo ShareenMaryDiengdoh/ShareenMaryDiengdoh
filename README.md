@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shareen Diengdoh
+# 👋 Hi, I'm Shareen Mary Diengdoh
 
-🎓 Final-year **Chemical Engineering Student** | 📊 **Data Analytics Enthusiast**  
+🎓 Final-year **Chemical Engineering Student** | 📊 **Data Analyst**  
 🔁 Turning raw data into insights — with **Python, SQL, and Power BI**
 
 ---
